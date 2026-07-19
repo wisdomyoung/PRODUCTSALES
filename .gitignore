@@ -1,0 +1,18 @@
+# Node
+frontend/node_modules
+frontend/.next
+frontend/out
+
+# Java
+backend/target
+backend/data
+backend/data-backup
+
+# Local environment
+frontend/.env.local
+
+# IDE / OS
+.vscode
+.idea
+.DS_Store
+Thumbs.db
